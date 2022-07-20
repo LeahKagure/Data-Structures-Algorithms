@@ -1,4 +1,6 @@
 //This program shows how to perform an inset operation in an unsorted array
+//It is faster than in a sorted array because in an unsorted array
+//you don't have to care about the position of the new inserted element
 
 #include <stdio.h>
 

@@ -1,4 +1,6 @@
 //This program shows how to perform a delete operation in an unsorted array
+//It is deleted using linear search and once the deletion is done
+//the elements are shifted
 
 #include <stdio.h>
 

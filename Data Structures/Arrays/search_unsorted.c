@@ -1,4 +1,5 @@
 //This program shows how to perform a linear search in an unsorted array
+//Can be performed by linear traversal from the first to the last element
 
 #include <stdio.h>
 
