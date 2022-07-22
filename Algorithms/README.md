@@ -46,6 +46,7 @@ Some types of algorithms include: *Bruteforce algorithm, Recursive algorithm, Ba
 2. *Posterior analysis* - 'Posterior' means after. This analysis means checking the algorithm after its implementation
 
 **Algorithm complexity and how to find it**
+
 An algorithm is defined as complex, based on the amount of space and time it consumes.
 
 **Two factors of algorithm complexity**
