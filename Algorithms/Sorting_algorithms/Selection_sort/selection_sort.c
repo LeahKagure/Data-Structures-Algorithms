@@ -46,3 +46,6 @@ int main()
     printf("The sorted array: \n");
     print_array(arrInt, v);
 }
+
+//The Time complexity is: 0(n**2)
+//The Auxiliary Space is: 0(1)
