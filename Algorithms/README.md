@@ -43,13 +43,15 @@ Some types of algorithms include: *Bruteforce algorithm, Recursive algorithm, Ba
 
 **How to analyze an algorithm**
 1. *Priori analysis* - 'Priori' means before. This analysis means checking the algorithm before its implementation
-2.*Posterior analysis* - 'Posterior' means after. This analysis means checking the algorithm after its implementation
+2. *Posterior analysis* - 'Posterior' means after. This analysis means checking the algorithm after its implementation
 
 **Algorithm complexity and how to find it**
 An algorithm is defined as complex, based on the amount of space and time it consumes.
+
 **Two factors of algorithm complexity**
 1. *Time factor* - Time is measured by counting the number of key operators i.e comparisons in the sorting algorithm
 2. *Space factor* - Space is measured by counting the maximum memory space required by the algorithm
+
 **Complexity of an algorithm**
 1. *Space complexity* is calculated by determining the fixed part and variable part
 2. *Time complexity* is calculated by determining the constant time part and the variable time part
@@ -60,8 +62,8 @@ Extra space is also known as *auxiliary space*
 2. *Design method* - Greedy, divide and conquer, dynamic programming, linear programming, reduction (transform and conquer), backtracking, branch and bound algorithms
 
 **Two approaches for designing algorithms**
-1. *Top-Down approach
-2. *Botton-Up approach
+1. *Top-Down approach*
+2. *Botton-Up approach*
 3. *Other classifications* : Randomized algorithms, classification by complexity, classification by research area, branch and bound enumeration and backtracking
 
 **Importance of algorithm analysis**
