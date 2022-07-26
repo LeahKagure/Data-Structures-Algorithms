@@ -8,6 +8,7 @@ An array is split into a sorted and an unsorted part. The values from the unsort
 3. It is adaptive in nature i.e. *appropriate for data sets which are already partially solved*
 
 **Time complexity:** 0(N^2)
+
 **Auxiliary Space:** 0(1)
 
 **Boundary cases:** It takes the maximum time to sort if the elements are in reverse order.
