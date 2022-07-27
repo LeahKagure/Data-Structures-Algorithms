@@ -10,7 +10,7 @@ Merge operation is the process of taking two smaller sorted arrays and combining
 **Time Complexity:** 0(n log n) for all the three cases
 -It divides the array into two halves and takes linear time to merge two halves
 
-**Auxiliary Space:**0(n) as all elements are copied into an auxiliary array
+**Auxiliary Space:** 0(n) as all elements are copied into an auxiliary array
 
 **Algorithmic paradigm** is divide and conquer
 
