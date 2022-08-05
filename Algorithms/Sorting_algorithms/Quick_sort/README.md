@@ -11,6 +11,7 @@ The key process in quicksort is a *partition*. The target of the partition given
 This should be done in linear time.
 
 The quicksort algorithm is a recursive function.
+
 **Its case scenarios**
 1. *Worst case* - (n^2)
 2. *Best case* - (n log n)
