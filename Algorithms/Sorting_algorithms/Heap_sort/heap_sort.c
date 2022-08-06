@@ -82,3 +82,5 @@ int main()
     heap_sort(arrInt, v);
     print_array(arrInt, v);
 }
+//Time Complexity: 0(n log n)
+//Auxiliary Space: 0(1)
