@@ -19,6 +19,7 @@ It is typically 2-3 times slower than a well-implemented Quicksort. The reason f
 The process of creating a heap data structure from a binary tree represented using an array
 Used to create minimum heap or maximum heap
 Start from the first index of the non-leaf node whose index is given by N/2-1
+
 Heapify uses **recursion**
 
 **The two phases of Heapsort**
