@@ -1,5 +1,6 @@
 **Sorting algorithms**
 These algorithms are used to rearrange a given array or list elements according to a comparison operator in the elements. The comparison operator is used to decide the new order of elements in the respective data structure.
+
 Sorting algorithms include:
 1. Selction Sort
 2. Bubble Sort
