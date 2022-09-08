@@ -1,4 +1,5 @@
 **Data Structures**
+
 This directory contains Data Structures used in Computer Programming.
 
 A Data Structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so it can be accessed and efficiently uploaded.
@@ -51,6 +52,7 @@ An example is *Tree and Graph*
 - Searching
 - Insertion
 - Deletion
+
 Other methods include:
 - create
 - selection
