@@ -8,7 +8,7 @@ In C, a node can be represented using structures. While in Java or C#, a linked 
 
 Creating a linked list node is as follow:
 //A linked list node
-struct Node {
+Struct Node {
 	int data;
 	struct Node *next;
 };
