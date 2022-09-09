@@ -7,11 +7,13 @@ Each node had two points:
 In C, a node can be represented using structures. While in Java or C#, a linked list can be represented as a class and a node as a seperate class. The linked list class contains a reference of node class type
 
 Creating a linked list node is as follow:
+```
 //A linked list node
+
 Struct Node {
 
 	int data;
 
 	struct Node *next;
-
 };
+```
