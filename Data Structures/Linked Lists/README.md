@@ -30,11 +30,11 @@ While the first/head node has the link of the last node of the entire linked lis
 
 **Time complexities**
 1. Search - worst case:  0(n)
-	  - average case: 0(n)
+	 - average case: 0(n)
 2. Insert - worst caase: 0(1)
-	  -average case: 0(1)
+	 -average case: 0(1)
 3. Delete - worst case: 0(1)
-	  -average case: 0(1)
+	 -average case: 0(1)
 
 **Auxiliary Space**
 The required space for a linked list is *0(n)*
