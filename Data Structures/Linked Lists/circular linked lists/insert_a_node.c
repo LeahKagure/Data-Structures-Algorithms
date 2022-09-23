@@ -6,7 +6,10 @@ A node can be inserted in 4 ways into a circular singly linked list
 - In an empty list
 - At the beginning of the list
 - At the end of the list
-- In between the nodes 
+- In between the nodes
+
+- Insertion in a circular linked list takes constant time, irrespective
+of the length of the list
 */
 
 #include <stdio.h>
