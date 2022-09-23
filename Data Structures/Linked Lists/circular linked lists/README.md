@@ -24,6 +24,25 @@ struct Node {
 
 ```
 
+```
+//The structure of a circular doubly linked list
+
+struct Node {
+
+        int value;
+
+        //points to the next node
+
+        struct Node *next
+
+	//points to the previous node
+
+	struct Node *previous
+
+};
+
+```
+
 **Advantages of circular linked lists**
 - Any node can be a starting point
 - Useful for implementation of a queue
