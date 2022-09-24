@@ -18,6 +18,9 @@ struct Node {
 
 };
 
+```
+
+
 Circular linked lists are similar to singly linked lists with the exception of connecting the last node to the first node.
 
 **Advantages of circular linked lists**
@@ -41,8 +44,6 @@ Circular linked lists are similar to singly linked lists with the exception of c
 - Any node can be set as the starting point
 - Nodes are traversed quickly from the first to the last
 
-
-```
 
 2. **Circular doubly linked list** - This has properties of both doubly linked lists and circular linked lists in which two consecutive elements are linked or connected by the previous and next pointer. The first node points to the last node by the previous pointer.
 
