@@ -19,6 +19,7 @@ In hashing, insert,searching and delete operations can be performed in *0(1)* or
 2. **Hash Function** - This is a function that is used to transform a given key into a specific slot index. Its main job is to map each key into a unique slot index
 If each key is mapped into a unique slot index, then the hash function is termed as a *perfect hash function*. 
 A programmer's goal is to create a hash function with whose help the number of collisions are as few as possible.
+
 **Properties of a good hash function:**
 - It is efficiently computable
 - It should uniformly distribute the keys
@@ -26,6 +27,7 @@ A programmer's goal is to create a hash function with whose help the number of c
 - It should have a low load factor
 3. **Collision Handling** - Because a hash function gets a small number for a big key, there is a high chance that two keys will result in the same value
 *Collision* is the situation where a newly inserted key maps to an already occupied slot in the hash table
+
 **Collision handling techniques:**
 - **Chaining** - Also known as *closed addressing*. This is where each cell of a hash table is made to point to a linked list of records that have the same hash function value. It is simple but it requires additional memory outside the table
 - **Open addressing** - All elements are stored in the hash table. Each entry into the table contains either a record or NIL. It involves generating a location for storing or searching the dat in a process known as *probe*.Probing can be; *linear probing, quadratic probing, double hashing*
